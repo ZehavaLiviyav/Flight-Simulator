@@ -11,7 +11,7 @@ In our Data We have a table with attributes and its values according to the time
 
 Link to YouTube video that explain the project shortly: https://youtu.be/5MtKrwS6CJw
 
-Developed by: Zehava Liviyev, Yonatan Schuster, Erez Amirav, Ido Zemel. 
+ 
 
 ![pic1](https://user-images.githubusercontent.com/74708029/149903627-16662653-03d5-476c-9d0f-a6edf1f56018.png)
 
